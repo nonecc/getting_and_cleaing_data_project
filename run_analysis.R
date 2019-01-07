@@ -44,7 +44,7 @@ cols <- grep("mean\\(\\)|std\\(\\)", names(X), value = TRUE)
 X <- X[, cols]
 
 #map y to activity names
-y$activiy <- factor(y$activiy, labels = codey$V2)
+y$activity <- factor(y$activity, labels = codey$V2)
 
 #join X and y into one table
 df <- cbind(y, X)
