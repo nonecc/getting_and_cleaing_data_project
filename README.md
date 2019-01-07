@@ -1,6 +1,6 @@
 # Getting and Cleaning Data Project
 
-This project processes Human Activity Recognition Using Smartphones Data Set hosted by the UCT Maching Learning Repository. This was done to the specification of the final project for the Getting and Cleaning Data course hosted by Coursera. 
+This project processes the Human Activity Recognition Using Smartphones Data Set hosted by the UCI Maching Learning Repository. This was done to the specification of the final project for the Getting and Cleaning Data course hosted by Coursera. 
 
 The run_analysis.R script does the following:
 
